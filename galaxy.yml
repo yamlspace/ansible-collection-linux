@@ -1,6 +1,7 @@
 ---
 authors:
   - Taylor Kimball (https://github.com/tkimball83)
+  - Nayeem Syed (https://github.com/wizardsupreme)
 build_ignore:
   - .gitignore
 description: A collection of linux roles
@@ -8,15 +9,15 @@ dependencies:
   ansible.posix: 2.0.0
   community.docker: 4.3.1
   community.general: 10.3.1
-documentation: https://github.com/linuxhq/ansible-collection-linux/blob/main/README.md
-homepage: https://www.linuxhq.org
-issues: https://github.com/linuxhq/ansible-collection-linux/issues
+documentation: https://github.com/yamlspace/ansible-collection-linux/blob/main/README.md
+homepage: https://www.yaml.space
+issues: https://github.com/yamlspace/ansible-collection-linux/issues
 license:
   - GPL-3.0-or-later
 name: linux
-namespace: linuxhq
+namespace: yamlspace
 readme: README.md
-repository: https://github.com/linuxhq/ansible-collection-linux
+repository: https://github.com/yamlspace/ansible-collection-linux
 tags:
   - cloud
   - infrastructure
